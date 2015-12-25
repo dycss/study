@@ -2,7 +2,7 @@
  * 状态机
  * Created by donaldcen on 2015/12/25
  */
-(function () {
+//(function () {
 
 
     /**
@@ -45,9 +45,10 @@
     };
 
 
-    if (typeof module == 'object' && module.exports) {
-        module.exports = State;
-    } else {
-        return State;
-    }
-})();
+    //if (typeof module == 'object' && module.exports) {
+    //    module.exports = State;
+    //} else {
+    //    return State;
+    //}
+    module.exports = 'hello wor;d'//State;
+//})();
