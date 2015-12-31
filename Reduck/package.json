@@ -8,6 +8,8 @@
     "ejs-loader": "^0.2.1",
     "glob": "^6.0.3",
     "gulp": "^3.9.0",
+    "jsx-loader": "^0.13.2",
+    "react": "^0.14.5",
     "style-loader": "^0.13.0",
     "webpack": "^1.12.9"
   },
